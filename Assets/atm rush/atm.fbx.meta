@@ -1,14 +1,34 @@
 fileFormatVersion: 2
-guid: c22c021c54504ea49b0a1042b298746b
+guid: 7f9639a970b56704bb9498131da5adb0
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: e258db9f02c24b743870b5ffeee5f1f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 8c769b8fd88ffba4890fc1a61b7a6d65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: atm
+    second: {fileID: 2100000, guid: 0c402e3133fa4314a9a32b6bcdfdf99a, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Artboard 11
+    second: {fileID: 2800000, guid: b8c8b7ce29ddabb40be62916df70933c, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
     materialSearch: 1
-    materialLocation: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0

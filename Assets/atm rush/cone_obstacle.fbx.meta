@@ -1,9 +1,14 @@
 fileFormatVersion: 2
-guid: 6c00376240eb9104382e31935d999dad
+guid: b0f992c1d7ff72f4e9830f5d49be2cbd
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: koni obstacle
+    second: {fileID: 2100000, guid: fa9e42a15f4a14f47b3005e79141f6ad, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

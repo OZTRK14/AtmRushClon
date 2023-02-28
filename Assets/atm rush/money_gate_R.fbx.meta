@@ -1,9 +1,24 @@
 fileFormatVersion: 2
-guid: bd6f26bdaf4a76949a733e55eb44c892
+guid: c41a7982863b99f4b9d70d2bea9611c7
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: ac74e6b14c309294e969596b0d6e8e10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: money gate_
+    second: {fileID: 2100000, guid: 8e6c5234afc440b479b11a34e6d34a44, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Artboard 6
+    second: {fileID: 2800000, guid: 0e45c914754784c4796499275f081847, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Collect
+  - Collected
+  - ElmasCollected
+  - Adam
+  - kontrol
+  - "Alt\u0131nCollect"
+  - "Alt\u0131nCollected"
+  - Band
   layers:
   - Default
   - TransparentFX

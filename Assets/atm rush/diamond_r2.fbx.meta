@@ -1,9 +1,29 @@
 fileFormatVersion: 2
-guid: fa6d492fd1fca6c46a1f50a59f067f80
+guid: 823650487060d8a4f95f0846d784d381
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: diamond dark
+    second: {fileID: 2100000, guid: d3e0ea34db38f8244b82a2700f8e01e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: diamond light
+    second: {fileID: 2100000, guid: 68e5290dcfe29ec41bc5f2b7f1fe94c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: diamond normal
+    second: {fileID: 2100000, guid: 54807971c3d423042bb514ea0f95cbd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: diamond shine
+    second: {fileID: 2100000, guid: 8dc73bb6ff6174b47850ea3adf9f0e2a, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
